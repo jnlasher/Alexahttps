@@ -55,3 +55,9 @@ Your controller should be running either a server or a client that can read this
 ## Closing
 
 From following the above setup it is simple to create an application that will speak with an Amazon Echo device. This can be further developed to an HTTPS static server or domain for use with a designated controller.
+
+
+[1]: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-web-service#requirements-for-your-web-service
+[2]: https://ngrok.com/download
+[3]: https://developer.amazon.com
+[4]: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill
