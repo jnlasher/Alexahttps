@@ -1,0 +1,19 @@
+{
+	"intents": [
+		{
+			"intent": "SwitcherIntent",
+			"slots": [
+				{
+					"name": "input",
+					"type": "AMAZON.NUMBER"
+				},{
+					"name": "output",
+					"type": "AMAZON.NUMBER"
+				}
+			]
+		},
+		{
+			"intent": "AMAZON.HelpIntent"
+		}
+	]
+}

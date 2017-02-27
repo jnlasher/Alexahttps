@@ -1,0 +1,4 @@
+SwitcherIntent switch input {input} to output {output}
+SwitcherIntent change input {input} to output {output}
+SwitcherIntent switch to input {input}
+SwitcherIntent switch to output {output}
