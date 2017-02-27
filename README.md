@@ -52,10 +52,6 @@ Triggering the Switcher Intent (e.g. switch input X to output Y) will send a pac
 
 Your controller should be running either a server or a client that can read this data and parse it accordingly. The Python to do this is not included in this repository. 
 
-## Closing
-
-From following the above setup it is simple to create an application that will speak with an Amazon Echo device. This can be further developed to an HTTPS static server or domain for use with a designated controller.
-
 
 [1]: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-web-service#requirements-for-your-web-service
 [2]: https://ngrok.com/download
